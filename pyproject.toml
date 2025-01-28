@@ -1,0 +1,15 @@
+[project]
+name = "yc_januspro"
+description = "About DeepSeek Chat API\nGo here to register and get the api-key [a/https://platform.deepseek.com/](https://platform.deepseek.com/) Then enter api_key in config.json"
+version = "1.0.0"
+license = {file = "LICENSE"}
+dependencies = ["git+https://github.com/deepseek-ai/Janus.git"]
+
+[project.urls]
+Repository = "https://github.com/yichengup/ComfyUI_Yc_JanusPro"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_Yc_JanusPro"
+Icon = ""
