@@ -1,8 +1,8 @@
 [project]
 name = "yc_januspro"
-description = "About DeepSeek Chat API\nGo here to register and get the api-key [a/https://platform.deepseek.com/](https://platform.deepseek.com/) Then enter api_key in config.json"
+description = "ComfyUI unofficial node for Janus-Pro, a unified multi-modal understanding and generation framework. Added experimental node for two-image input"
 version = "1.0.0"
-license = {file = "LICENSE"}
+license = {file =  = {file = "LICENSE"}}
 dependencies = ["git+https://github.com/deepseek-ai/Janus.git"]
 
 [project.urls]
