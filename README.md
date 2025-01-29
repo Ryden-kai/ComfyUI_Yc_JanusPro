@@ -17,7 +17,7 @@ Experimental changes to JanusPro
    ComfyUI/models/Janus-Pro/Janus-Pro-1B/
    ComfyUI/models/Janus-Pro/Janus-Pro-7B/
    ```
-   ## 关于我 | About me
+## 关于我 | About me
 
 Bilibili：[我的B站主页](https://space.bilibili.com/498399023?spm_id_from=333.1007.0.0)
 QQ号 3260561522
